@@ -6,17 +6,17 @@
   
   Items are displayed using *id number*, *name*, *price*, and *quantity*
   
-      bamazonwk12hw/Images/Item_display.png
+  ![alt text](https://github.com/Barriermatt7/bamazonwk12hw/blob/master/Images/Item_display.png)
     
    User is prompted which item he would like to purchase.
    
    
-      bamazonwk12hw/Images/item_select.png
+  ![alt text](https://github.com/Barriermatt7/bamazonwk12hw/blob/master/Images/item_select.png)
     
     User types ID number and is then prompted with a message asking for how many items are to be purchased. 
     
     
-      bamazonwk12hw/Images/items_purchased.png
+  ![alt text](https://github.com/Barriermatt7/bamazonwk12hw/blob/master/Images/items_purchased.png)
     
     
   ## Future Development
