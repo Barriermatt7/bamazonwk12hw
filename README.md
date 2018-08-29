@@ -1,2 +1,2 @@
-# bamazonwk12hw
-mysql
+# *Bamazon* Week 12 Homework
+**Utilizing MYSQL
