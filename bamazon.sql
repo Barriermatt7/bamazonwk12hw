@@ -13,13 +13,13 @@ CREATE TABLE products(
 );
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("Fantastic Frozen Shoes", "Industrial", 171.00, 822), 
-       ("Ergonomic Metal Bacon", "Electronics", 884.00, 191),
-       ("Rustic Concrete Gloves", "Baby", 424.00, 75), 
-       ("Awesome Cotton Chicken", "Sports", 319.00, 131), 
-       ("Fantastic Fresh Table", "Outdoors", 620.00, 93), 
-       ("Handcrafted Cotton Table", "Jewelery", 93.00, 493), 
-       ("Licensed Steel Shoes", "Electronics", 992.00, 17), 
-       ("Rustic Cotton Bike", "Outdoors", 245.00, 61), 
-       ("Sleek Granite Pants", "Shoes", 965.00, 932), 
-       ("Awesome Rubber Mouse", "Jewelery", 3.25, 105);
+VALUES ("BB Gun", "Sporting", 54.80, 177), 
+       ("Round tent", "Sporting", 250.00, 277),
+       ("Hand Drill", "Construction", 151.00, 120), 
+       ("Red Apples", "Food", 4.12, 254), 
+       ("Bow", "Sporting", 172.56, 56), 
+       ("Arrow", "Sporting", 12.00, 820), 
+       ("Purple Banannas", "Food", 3.50, 900), 
+       ("Hatchet", "Construction", 28.23, 145), 
+       ("Ladder", "Construction", 234.12, 245), 
+       ("Hamburger", "Food", 5.55, 134);

@@ -1,0 +1,23 @@
+{
+  "name": "bamazonwk12hw",
+  "version": "1.0.0",
+  "description": "mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Barriermatt7/bamazonwk12hw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Barriermatt7/bamazonwk12hw/issues"
+  },
+  "homepage": "https://github.com/Barriermatt7/bamazonwk12hw#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  }
+}
